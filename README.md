@@ -4,7 +4,7 @@ Computational linguist and NLP researcher at DFKI in Berlin, with over a decade 
 
 My work spans information extraction, text classification, text generation, dataset creation, model development, and evaluation. I have collaborated with industry partners including Bayer, Deutsche Telekom, Deutsche Presse-Agentur (dpa), Deutsche Welle (DW), and Deutsche Bahn, with a focus on bridging NLP research and real-world applications.
 
-My current research focuses on large language models in the biomedical and journalistic domains, including factuality, relation extraction, evaluation, and AI-assisted editorial workflows.
+My current research focuses on large language models in the biomedical and journalistic domains, as well as trustworthy and robust NLP.
 
 ## Selected projects
 
@@ -24,6 +24,17 @@ Research on generative AI assistants for editorial workflows, including:
 - evaluation of AI-assisted editing
 - citation attribution and factuality
 
+[Project website](https://genki4media.de)
+
+### TRAILS — Trustworthy and Inclusive Machines
+Research on trustworthy and inclusive NLP, with a focus on:
+- robustness and long-tail phenomena
+- factuality and trustworthy content
+- multilingual and culturally inclusive NLP
+- robust and efficient language models
+
+[Project website](https://trails-dfki.github.io)
+
 ## Research interests
 
-Natural Language Processing · Information Extraction · Text Classification · Text Generation · Large Language Models · Factuality · Relation Extraction · Evaluation
+Natural Language Processing · Information Extraction · Text Classification · Text Generation · Large Language Models · Factuality · Relation Extraction · Evaluation · Trustworthy NLP
