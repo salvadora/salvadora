@@ -1,6 +1,6 @@
 # Aleksandra Gabryszak
 
-Computational linguist and NLP researcher at DFKI in Berlin, with over a decade of experience in natural language processing across research and industry projects.
+Computational linguist and NLP researcher at German Research Center for Artificial Intelligence (DFKI) in Berlin, with over a decade of experience in natural language processing across research and industry projects.
 
 My work spans information extraction, text classification, text generation, dataset creation, model development, and evaluation. I have collaborated with industry partners including Bayer, Deutsche Telekom, Deutsche Presse-Agentur (dpa), Deutsche Welle (DW), and Deutsche Bahn, with a focus on bridging NLP research and real-world applications.
 
