@@ -6,6 +6,8 @@ My work spans information extraction, text classification, text generation, data
 
 My current research focuses on large language models in the biomedical and journalistic domains, as well as trustworthy and robust NLP.
 
+**[DFKI Profile & Publications](https://www.dfki.de/en/web/about-us/employee/person/alga02)** · **[Google Scholar](https://scholar.google.com/citations?user=09e-zBgAAAAJ&hl=en)**
+
 ## Selected projects
 
 ### BioRelFact
